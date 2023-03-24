@@ -7,3 +7,5 @@ Features of the app:
 3. based off week organized by difficulty and time
 4. add to google calendar
 5. make groups a subscription
+
+Collaborators: JB Kam, Connor Lam, Ben Waldee
